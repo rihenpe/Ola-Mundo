@@ -3,4 +3,6 @@
 
  Repositório criado durante uma aula do curso em vídeo.
  
- Inclui esta linha.
+ Alterei a linha anterior.
+
+ Inclui esta nova.
