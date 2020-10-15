@@ -40,3 +40,15 @@ Lista de tarefas:
 - [ ] quatro
 
 [Acesse meu github](https://github.com/rihenpe/Ola-Mundo)
+
+Um comando ou linha de código:
+`a, b = b, a`
+
+Um bloco de código:
+```
+num = int(input("Digite um inteiro: "))
+if num % 2 == 0:
+    print(f"{num} é par.")
+else:
+    print(f"{num} é impar.")
+```
