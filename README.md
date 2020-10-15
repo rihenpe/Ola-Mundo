@@ -11,6 +11,9 @@ __negrito com underline__
 _itálico com underline_
 *itálico com asterisco*
 
+_*mesclado negrito e itálico*_
+*_meclado_*
+
 1. lista 01
 1. lista 02
 1. lista 03
