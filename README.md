@@ -65,3 +65,6 @@ Num | Nome | Nota
 1 | Ana | 9,0
 2 | Bia | 10,0
 3 | Caco | 8,5
+
+emoji, basta digitar o sinal de dois-pontos ":" 
+[resumo dos emojis](https://github.com/ikatyang/emoji-cheat-sheet)
