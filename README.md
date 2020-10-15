@@ -52,3 +52,16 @@ if num % 2 == 0:
 else:
     print(f"{num} é impar.")
 ```
+
+## Tabela:
+---
+Num | Nome | Nota
+---|---|---
+1 | Ana | 9,0
+2 | Bia | 10,0
+3 | Caco | 8,5
+
+Num | Nome | Nota
+1 | Ana | 9,0
+2 | Bia | 10,0
+3 | Caco | 8,5
