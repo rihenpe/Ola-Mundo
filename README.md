@@ -1,8 +1,8 @@
 # Olá, Mundo!
 
-# Título Principla
+# Título Principal
 ## Secundário
-### Ternário
+### Terciário
 
 __negrito com underline__
 
@@ -31,8 +31,8 @@ Lista demarcada dash.
 - quatro
 
 Lista de tarefas:
-- [] um
-- [] dois
+- [ ] um
+- [ ] dois
 - [X] três
-- [] quatro
+- [ ] quatro
 
